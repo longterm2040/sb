@@ -1,2 +1,2 @@
 # sb
- map.swf to download
+ /engine/storage/levels/basketball/map.swf
