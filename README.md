@@ -1,2 +1,2 @@
 # path:
- /engine/storage/levels/swamp/map.swf
+ /engine/storage/levels/dino_bones/map.swf
