@@ -1,2 +1,2 @@
 # path:
- /engine/storage/levels/dino_bones/map.swf
+ /engine/storage/levels/rift/map.swf
