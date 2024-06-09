@@ -1,2 +1,2 @@
 # path:
- /engine/storage/levels/rift/map.swf
+ /engine/storage/levels/dosers/map.swf
