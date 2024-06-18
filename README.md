@@ -1,2 +1,2 @@
 # path:
-/engine/storage/levels/bigSnake_fix/map.swf
+/engine/storage/levels/kraken/map.swf
