@@ -1,2 +1,2 @@
 # path:
-/engine/storage/levels/kraken/map.swf
+/engine/storage/levels/dino/map.swf
