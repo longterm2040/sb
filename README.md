@@ -1,2 +1,2 @@
 # path:
-/engine/storage/levels/dino/map.swf
+/engine/storage/levels/jungletop/map.swf
