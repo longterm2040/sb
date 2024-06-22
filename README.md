@@ -1,2 +1,2 @@
 # path:
-/engine/storage/levels/newjungle/map.swf
+/engine/storage/levels/helloween/map.swf
