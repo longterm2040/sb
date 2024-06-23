@@ -1,2 +1,1 @@
-# path:
-/engine/storage/levels/prerie/map.swf
+/engine/storage/levels/sea_fort/map.swf
