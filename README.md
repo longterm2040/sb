@@ -1,2 +1,2 @@
 # path:
-/engine/storage/levels/helloween/map.swf
+/engine/storage/levels/prerie/map.swf
