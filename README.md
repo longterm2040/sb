@@ -1,1 +1,1 @@
-/engine/storage/levels/sea_fort/map.swf
+/engine/storage/levels/naval_battle/map.swf
