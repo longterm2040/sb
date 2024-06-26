@@ -1,1 +1,1 @@
-/engine/storage/levels/naval_battle/map.swf
+/engine/storage/levels/grassedruins/map.swf
