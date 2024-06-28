@@ -1,1 +1,1 @@
-/engine/storage/levels/hell/map.swf
+/engine/storage/levels/castles3/map.swf
