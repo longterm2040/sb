@@ -1,1 +1,1 @@
-/engine/storage/levels/creamRewampFix/map.swf
+/engine/storage/levels/rock/map.swf
