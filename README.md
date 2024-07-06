@@ -1,1 +1,1 @@
-/engine/storage/levels/rock/map.swf
+/engine/storage/levels/muerto_fix/map.swf
