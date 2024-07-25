@@ -1,1 +1,1 @@
-/engine/storage/levels/cave/map.swf
+/engine/storage/levels/asteroid_battle/map.swf
